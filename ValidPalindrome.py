@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/valid-palindrome/description/
 
-s = "A man, a plan, a canal: Panama"
+s = "Aman, a plan, a canal: Panama"
 
 def validPalindrome(s):
     s=s.lower()
