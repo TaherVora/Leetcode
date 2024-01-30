@@ -15,4 +15,3 @@ def twoSum2(numbers,target):
 
 print(twoSum2(numbers,target))
 
-# github_pat_11AQVLEWY0UtNIw2SJV2sm_hJY
