@@ -14,3 +14,5 @@ def twoSum2(numbers,target):
             return [i+1,j+1]
 
 print(twoSum2(numbers,target))
+
+# github_pat_11AQVLEWY0UtNIw2SJV2sm_hJYHnjx
